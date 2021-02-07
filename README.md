@@ -1,5 +1,5 @@
 # Pocketsize RS485 splitter
-Pocketsize RS485 splitter for DMX512 signal. Created for everyday use with focus on problematic device isolation, connection for far placed devices, simple "Y" type splitting.
+Pocketsize RS485 splitter for DMX512 signal. Created for everyday use with focus on problematic device isolation, connection for far separated devices, simple "Y" type splitting.
 
 ![logo](/pictures/dmxsplit1.jpg)
 
